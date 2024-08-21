@@ -1,2 +1,2 @@
 # hackathon-1
-Author-Ruchir Prabhune
+Author-Ruchir Rajendra Prabhune
